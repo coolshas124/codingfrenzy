@@ -43,8 +43,10 @@ int main() {
 	
 	int n;
 	
-	cout<<"No of inputs: "<<endl;
+	cout<<"No of inputs: ";
 	cin>>n;
+	
+	cout<<endl;
 	
 	int array[n];
 	
